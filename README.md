@@ -6,6 +6,8 @@ The problem is, my desktop used to go full of program shortcuts, so I made this 
 
 This actually helped me in reducing shortcuts.
 
+You can use organize your apps by categories too. You just need to rename the database file, change the title & icon then you're ready! I used PyInstaller for building the executable.
+
 Known problems:
 * Need a restart to view changes.
 * Bad UI
